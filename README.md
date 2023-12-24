@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EtyIslam
+- 👋 Hi, I’m @EtyTania
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning Front end & back end web developing 
 - 💞️ I’m looking to collaborate on ...
